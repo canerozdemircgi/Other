@@ -1,0 +1,2 @@
+python -m pip install --upgrade cloudscraper
+python -m pip install --upgrade requests
